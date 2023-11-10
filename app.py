@@ -4,3 +4,5 @@ class app():
         print("yeah")
     
     print("hello")
+
+    print("bonjour")
